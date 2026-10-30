@@ -1,5 +1,7 @@
+packages/common/
 /vendor/
 .idea
 .DS_Store
 .php-cs-fixer.cache
+.phpunit.cache/
 .phpunit.result.cache
